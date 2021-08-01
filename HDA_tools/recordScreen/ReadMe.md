@@ -19,5 +19,9 @@ this all writes out to an external file where all my tools write out to so i can
 
 
 
-https://user-images.githubusercontent.com/80905013/127784534-a9a9c792-8967-44f5-9d05-1413d21b1702.mp4
+
+https://user-images.githubusercontent.com/80905013/127786299-a3bd03ea-aad6-4b91-8d26-08fc159af46a.mp4
+
+
+
 
